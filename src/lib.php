@@ -28,21 +28,22 @@ $MODO          = 'extract';
 $finalUTF8     = TRUE;
 $isMultiSec    = FALSE;  // por default é uma seção por arquivo
 
-$SECAO         = array( // na ordem
+$SECAO         = array( // na ordem, modalidades
 	'AO'=> 'Apresentação Oral',
 	'COL'=>'Prêmio Colgate Odontologia Preventiva',
-	'DMG'=>'Prêmio DMG Odontologia Minimamente Invasiva', // new 2020
+	'DMG'=>'Prêmio DMG Odontologia Minimamente Invasiva',
 	'FC'=> 'Fórum Científico',
 	'HA'=> 'Prêmio Hatton (IADR *Unilever Hatton Division Award*)',
-	'LH'=> 'Prêmio LAOHA Colgate de Valorização à Internacionalização', // new 2020
-	'PDI'=>'Painel "Pesquisa Dentro da Indústria"',  // chg
+	'LHC'=>'Prêmio LAOHA-Colgate de Apoio à Pesquisa Clínica', // new 2021
+	'LHI'=>'Prêmio LAOHA-Colgate de Valorização à Internacionalização', // chg
+	'PDI'=>'Painel "Pesquisa Dentro da Indústria"',
 	'PE'=> 'Pesquisa em Ensino',
-	'PI'=> 'Painel Iniciante (prêmio Miyaki Issao)',
+	'PI'=> 'Painel Iniciante - Prêmio Myaki Issao',
 	'PN'=> 'Painel Aspirante e Efetivo',
 	'PO'=> 'POAC (Pesquisa Odontológica de Ação Coletiva)',
 	'RS'=> 'Painel Revisão Sistemática e Meta-Análise',
-	'TCC'=> 'Painel TCC',
-	// saiu 'JL'=> 'Prêmio Joseph Lister',
+	'TCC'=>'Painel TCC',
+	'RCR'=>'Painel Relatos de Casos e Revisões',  // new 2021
 );
 
 $FILTRO= [];
