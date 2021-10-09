@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Coordenadores xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
+	<Coordenador>
+		<Nome>Aldiéris Alves Pesqueira</Nome>
+		<Uni>FOA-UNESP </Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Alessandra Pereira de Andrade</Nome>
+		<Uni>USF</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Alice Corrêa Silva-sousa</Nome>
+		<Uni>FORP-USP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Altair Antoninha Del Bel Cury</Nome>
+		<Uni>FOP-UNICAMP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Ana Flávia Sanches Borges</Nome>
+		<Uni>FOB-USP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Antonio Carlos da Silva Tavares</Nome>
+		<Uni>UNIMES</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Bruna Egumi Nagay</Nome>
+		<Uni>FOP-UNICAMP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Carla Renata Sipert</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Carlos Alberto Kenji Shimokawa</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Carlos Francci</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Carlos José Soares</Nome>
+		<Uni>UFU</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Celso Augusto Lemos</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Claudio Mendes Pannuti</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Daniela Micheline Dos Santos</Nome>
+		<Uni>FOA-UNESP </Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Daniela Prócida Raggio</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Diego Dantas Lopes Dos Santos</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Edgard Michel-crosato</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Fernando Neves Nogueira</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Flávio de Freitas Mattos</Nome>
+		<Uni>UFMG</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Ivana Meyer Prado</Nome>
+		<Uni>UFMG</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Jairo Matozinho Cordeiro</Nome>
+		<Uni>FOP-UNICAMP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>João Gabriel Silva Souza</Nome>
+		<Uni>UnG</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Karina Felix Santos</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Laura Ajamil Rinaldi</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Lucas Hian da Silva</Nome>
+		<Uni>UNICID</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Luciano Natividade Cardoso</Nome>
+		<Uni>UMESP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Luiz Alberto Plácido Penna</Nome>
+		<Uni>UNIMES</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Mabelle de Freitas Monteiro</Nome>
+		<Uni>FOP-UNICAMP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Manoel Damião Sousa-neto</Nome>
+		<Uni>FORP-USP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Maria Gabriela Haye Biazevic</Nome>
+		<Uni>FOUSP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Mônica Cesar do Patrocinio</Nome>
+		<Uni>UNITAU</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Priscilla Barbosa Ferreira Soares</Nome>
+		<Uni>UFU</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Rafael Ratto de Moraes</Nome>
+		<Uni>UFPEL</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Ranulfo Benedito de Paula Miranda</Nome>
+		<Uni>UNIB</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Renata Pilli Jóias</Nome>
+		<Uni>USCS</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Rosemary Sadami Arai Shinkai</Nome>
+		<Uni>PUC - RS</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Saul Martins Paiva</Nome>
+		<Uni>UFMG</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Valentim Adelino Ricardo Barão</Nome>
+		<Uni>FOP-UNICAMP</Uni>
+	</Coordenador>
+	<Coordenador>
+		<Nome>Yara Teresinha Correa Silva-sousa</Nome>
+		<Uni>UNAERP - RIBEIRÃO PR</Uni>
+	</Coordenador>
+</Coordenadores>
