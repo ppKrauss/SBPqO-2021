@@ -105,7 +105,8 @@ switch ($cmd) {
 		$enc = $dom->ownerDocument->encoding;
 		if ($enc!='utf-8') die("\nERRO: UTF8 esperado nos XMLs.");
 
-		$xml = preg_replace('~&lt;(/)?(i|sub|sup|b|strong)&gt;~s','<$1i>',$xml);
+		//$xml = preg_replace('~&lt;(/)?(i|sub|sup|b|strong)&gt;~s','<$1i>',$xml);
+		$xml = preg_replace('~&lt;(/)?(strong|sub|sup|em|i|b)&gt;~s','<$1$2>',$xml);
 		$xml = preg_replace('/&amp;#(\d+);/s','&#$1;',$xml);
 		file_put_contents( "$dir_recebido/{$pinfo['basename']}", $xml );
 		//$sxml_resumos = new SimpleXMLElement($xml); die(PHP_EOL.$sxml_resumos->asXML());
