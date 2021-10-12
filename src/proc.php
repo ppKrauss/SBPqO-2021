@@ -107,13 +107,12 @@ switch ($cmd) {
 
 		//$xml = preg_replace('~&lt;(/)?(i|sub|sup|b|strong)&gt;~s','<$1i>',$xml);
 		$n_tags = 0;
-		$xml = preg_replace('~&lt;(/)?(strong|sub|sup|em|i|b)&gt;~si','<$1$2>',$xml,-1, $n_tags);
-		if ($n_tags) print "\n !tags on $e01b_file! $n_tags, check if more.";
+		$xml = preg_replace('~&lt;(/)?(strong|sub|sup|em|i|b)&gt;~sim','<$1$2>',$xml,-1, $n_tags);
 		//$xml = preg_replace('~&lt;(/)?[a-z][a-z0-9]+&gt;~si','<$1code>',$xml, -1, $n_fails); // ignoring other tags, converting e.g. H1 to italics
 		$xml = preg_replace('/&amp;#(\d+);/s','&#$1;',$xml); // case sensitive
 		$e01b_file = "$dir_recebido/{$pinfo['basename']}";
 		file_put_contents($e01b_file, $xml);
-		if ($n_fails) print "\n!Fails on $e01b_file! $n_fails fails. Check <code> tags.";
+		if ($n_tags) print "\n !tags on $e01b_file! $n_tags, check if more.";
 		//$sxml_resumos = new SimpleXMLElement($xml); die(PHP_EOL.$sxml_resumos->asXML());
 		// já poderia fazer mb_chr ( int $cp [, string $encoding ] ) e conferir tabela de símbolos.
 		// mb_convert_encoding($profile, 'HTML-ENTITIES', 'UTF-8'));
