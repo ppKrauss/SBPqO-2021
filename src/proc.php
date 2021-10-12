@@ -106,9 +106,14 @@ switch ($cmd) {
 		if ($enc!='utf-8') die("\nERRO: UTF8 esperado nos XMLs.");
 
 		//$xml = preg_replace('~&lt;(/)?(i|sub|sup|b|strong)&gt;~s','<$1i>',$xml);
-		$xml = preg_replace('~&lt;(/)?(strong|sub|sup|em|i|b)&gt;~s','<$1$2>',$xml);
-		$xml = preg_replace('/&amp;#(\d+);/s','&#$1;',$xml);
-		file_put_contents( "$dir_recebido/{$pinfo['basename']}", $xml );
+		$n_tags = 0;
+		$xml = preg_replace('~&lt;(/)?(strong|sub|sup|em|i|b)&gt;~si','<$1$2>',$xml,-1, $n_tags);
+		if ($n_tags) print "\n !tags on $e01b_file! $n_tags, check if more.";
+		//$xml = preg_replace('~&lt;(/)?[a-z][a-z0-9]+&gt;~si','<$1code>',$xml, -1, $n_fails); // ignoring other tags, converting e.g. H1 to italics
+		$xml = preg_replace('/&amp;#(\d+);/s','&#$1;',$xml); // case sensitive
+		$e01b_file = "$dir_recebido/{$pinfo['basename']}";
+		file_put_contents($e01b_file, $xml);
+		if ($n_fails) print "\n!Fails on $e01b_file! $n_fails fails. Check <code> tags.";
 		//$sxml_resumos = new SimpleXMLElement($xml); die(PHP_EOL.$sxml_resumos->asXML());
 		// já poderia fazer mb_chr ( int $cp [, string $encoding ] ) e conferir tabela de símbolos.
 		// mb_convert_encoding($profile, 'HTML-ENTITIES', 'UTF-8'));
@@ -235,9 +240,12 @@ switch ($cmd) {
 	$XML_body = '';
 	$IDs=[];
 	$n=0;
-	$ff2 = "$dir_entrega/etapa02/fronts.csv";
+	$ff2_path = "$dir_entrega/etapa02";
+	mkdir($ff2_path);
+	$ff2 = "$ff2_path/fronts.csv";
 	$fp2 = fopen($ff2, 'w'); //  a+
 	fputcsv($fp2, ['ID', 'Email', 'Titulo', 'Universidade', 'Autores', 'Apoio', 'Conflito']);
+	// echo "\n	DEBUG $ff2\n"; exit(0);
 	foreach( glob("$dir_recebido/*.xml") as $f0 ) {
 		$f=realpath($f0);
 		$pinfo = pathinfo($f);
@@ -257,9 +265,10 @@ switch ($cmd) {
 				'Titulo'=> $r->Titulo,
 				'Universidade'=> $r->Universidade,
 				'Autores'=> $r->Autores,
-				'Apoio'=> $r->Apoio,
+				'Apoio'=> (trim($r->Apoio))? $r->Apoio: $r->Apoio->em,
 				'Conflito'=> $r->Conflito,
 			];
+			// if ( trim($r->Apoio) || trim($r->Apoio->em) ) echo "\n $id COM APOIO.";
 			fputcsv($fp2, $CSV_front);
 			$IDs[$id]=1;
 		}
