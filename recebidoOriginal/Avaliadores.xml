@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AvaliacaoGeral xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
 	<Avaliador>
 		<Nome>Adalberto Luiz Rosa</Nome>
 		<Uni>FORP-USP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>1</Area>
 </Avaliacao>
 	</Avaliador>
@@ -33,7 +33,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Aldiéris Alves Pesqueira</Nome>
+		<Nome>AldiÃ©ris Alves Pesqueira</Nome>
 		<Uni>FOA-UNESP </Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -41,7 +41,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Alessandra Bühler Borges</Nome>
+		<Nome>Alessandra BÃ¼hler Borges</Nome>
 		<Uni>ICT-UNESP/SJC</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -60,8 +60,8 @@
 		<Nome>Alessandra Reis</Nome>
 		<Uni>UEPG</Uni>
 <Avaliacao>
-		<Modalidade>Painel Revisão Sistemática</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel RevisÃ£o SistemÃ¡tica</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -69,7 +69,7 @@
 		<Uni>UFRGS</Uni>
 <Avaliacao>
 		<Modalidade>Hatton</Modalidade>
-		<Area></Area>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -120,8 +120,8 @@
 		<Area>6</Area>
 </Avaliacao>
 <Avaliacao>
-		<Modalidade>Painel Pesquisa Dentro da Indústria</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Pesquisa Dentro da IndÃºstria</Modalidade>
+		<Area/>
 </Avaliacao>
 <Avaliacao>
 		<Modalidade>Projeto de Pesquisa</Modalidade>
@@ -129,7 +129,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Amália Moreno</Nome>
+		<Nome>AmÃ¡lia Moreno</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -145,7 +145,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Américo Bortolazzo Correr</Nome>
+		<Nome>AmÃ©rico Bortolazzo Correr</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -165,11 +165,11 @@
 		<Uni>FOUSP</Uni>
 <Avaliacao>
 		<Modalidade>Pesquisa em Ensino</Modalidade>
-		<Area></Area>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Ana Flávia Granville-garcia</Nome>
+		<Nome>Ana FlÃ¡via Granville-garcia</Nome>
 		<Uni>UEPB</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -177,7 +177,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Ana Flávia Sanches Borges</Nome>
+		<Nome>Ana FlÃ¡via Sanches Borges</Nome>
 		<Uni>FOB-USP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -201,7 +201,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Andréa Antônia Costa</Nome>
+		<Nome>AndrÃ©a AntÃ´nia Costa</Nome>
 		<Uni>AJES- MT</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -209,15 +209,15 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Andréa Cândido Dos Reis</Nome>
+		<Nome>AndrÃ©a CÃ¢ndido Dos Reis</Nome>
 		<Uni>FORP-USP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>5</Area>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Andréa Fonseca-gonçalves</Nome>
+		<Nome>AndrÃ©a Fonseca-gonÃ§alves</Nome>
 		<Uni>UFRJ</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -237,7 +237,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Angélica Maria Cupertino Lopes Marinho</Nome>
+		<Nome>AngÃ©lica Maria Cupertino Lopes Marinho</Nome>
 		<Uni>FATEFIG</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -245,7 +245,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Arnaldo de França Caldas Junior</Nome>
+		<Nome>Arnaldo de FranÃ§a Caldas Junior</Nome>
 		<Uni>UPE</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -256,7 +256,7 @@
 		<Nome>Brenda Paula Figueiredo de Almeida Gomes</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>2</Area>
 </Avaliacao>
 	</Avaliador>
@@ -269,7 +269,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Caio Vinicius Gonçalves Roman-torres</Nome>
+		<Nome>Caio Vinicius GonÃ§alves Roman-torres</Nome>
 		<Uni>UNISA</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -308,7 +308,7 @@
 		<Nome>Carina Maciel Silva-boghossian</Nome>
 		<Uni>UFRJ</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>10</Area>
 </Avaliacao>
 	</Avaliador>
@@ -332,7 +332,7 @@
 		<Nome>Carlos Estrela</Nome>
 		<Uni>UFG</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>2</Area>
 </Avaliacao>
 	</Avaliador>
@@ -340,20 +340,20 @@
 		<Nome>Carlos Rocha Gomes Torres</Nome>
 		<Uni>ICT-UNESP/SJC</Uni>
 <Avaliacao>
-		<Modalidade>Prêmio DMG Odontologia Minimamente Invasiva</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio DMG Odontologia Minimamente Invasiva</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Carolina de Castro Martins</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
-		<Modalidade>Painel Revisão Sistemática</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel RevisÃ£o SistemÃ¡tica</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Carolina Patrícia Aires</Nome>
+		<Nome>Carolina PatrÃ­cia Aires</Nome>
 		<Uni>FCFRP-USP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -361,7 +361,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Cássia Cilene Dezan-garbelini</Nome>
+		<Nome>CÃ¡ssia Cilene Dezan-garbelini</Nome>
 		<Uni>UEL</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -369,7 +369,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Cássia Maria Fischer Rubira</Nome>
+		<Nome>CÃ¡ssia Maria Fischer Rubira</Nome>
 		<Uni>FOB-USP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -392,7 +392,7 @@
 		<Nome>Cassiano K. Rosing</Nome>
 		<Uni>UFRGS</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>8</Area>
 </Avaliacao>
 	</Avaliador>
@@ -412,12 +412,12 @@
 		<Area>7</Area>
 </Avaliacao>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Cínthia Pereira Machado Tabchoury</Nome>
+		<Nome>CÃ­nthia Pereira Machado Tabchoury</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -426,7 +426,7 @@
 	</Avaliador>
 	<Avaliador>
 		<Nome>Cintia Helena Coury Saraceni</Nome>
-		<Uni>UNIP - SÃO PAULO</Uni>
+		<Uni>UNIP - SÃƒO PAULO</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
 		<Area>5</Area>
@@ -436,12 +436,12 @@
 		<Nome>Clarissa Lopes Drumond</Nome>
 		<Uni>FSM</Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Cláudia Maria Coêlho Alves</Nome>
+		<Nome>ClÃ¡udia Maria CoÃªlho Alves</Nome>
 		<Uni>UFMA</Uni>
 <Avaliacao>
 		<Modalidade>Projeto de Pesquisa</Modalidade>
@@ -460,23 +460,23 @@
 		<Nome>Claudio Costa</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Claudio Mendes Pannuti</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
-		<Modalidade>Painel Revisão Sistemática</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel RevisÃ£o SistemÃ¡tica</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Cláudio Rodrigues Leles</Nome>
+		<Nome>ClÃ¡udio Rodrigues Leles</Nome>
 		<Uni>UFG</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>6</Area>
 </Avaliacao>
 	</Avaliador>
@@ -497,10 +497,10 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Cristiane Meira Assunção</Nome>
+		<Nome>Cristiane Meira AssunÃ§Ã£o</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>3</Area>
 </Avaliacao>
 <Avaliacao>
@@ -509,7 +509,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Cristiane sá Roriz Fonteles</Nome>
+		<Nome>Cristiane sÃ¡ Roriz Fonteles</Nome>
 		<Uni>UFC</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -520,7 +520,7 @@
 		<Nome>Cristiane Yumi Koga-ito</Nome>
 		<Uni>ICT-UNESP/SJC</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>3</Area>
 </Avaliacao>
 	</Avaliador>
@@ -528,7 +528,7 @@
 		<Nome>Cristina Cunha Villar</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>8</Area>
 </Avaliacao>
 	</Avaliador>
@@ -557,7 +557,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Danielle Tupinambá Emmi</Nome>
+		<Nome>Danielle TupinambÃ¡ Emmi</Nome>
 		<Uni>UFPA</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -568,12 +568,12 @@
 		<Nome>Danyel Elias da Cruz Perez</Nome>
 		<Uni>UFPE</Uni>
 <Avaliacao>
-		<Modalidade>Fórum Cientí­fico</Modalidade>
-		<Area></Area>
+		<Modalidade>FÃ³rum CientÃ­Â­fico</Modalidade>
+		<Area/>
 </Avaliacao>
 <Avaliacao>
-		<Modalidade>Fórum Científico</Modalidade>
-		<Area></Area>
+		<Modalidade>FÃ³rum CientÃ­fico</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -592,12 +592,12 @@
 		<Nome>David Normando</Nome>
 		<Uni>UFPA</Uni>
 <Avaliacao>
-		<Modalidade>Painel Revisão Sistemática</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel RevisÃ£o SistemÃ¡tica</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Dayse Andrade Romão</Nome>
+		<Nome>Dayse Andrade RomÃ£o</Nome>
 		<Uni>UFAL</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -605,7 +605,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Débora Alves Nunes Leite Lima</Nome>
+		<Nome>DÃ©bora Alves Nunes Leite Lima</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -621,7 +621,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Edgard Norões Rodrigues da Matta</Nome>
+		<Nome>Edgard NorÃµes Rodrigues da Matta</Nome>
 		<Uni>UFAL</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -649,11 +649,11 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Efigênia Ferreira E. Ferreira</Nome>
+		<Nome>EfigÃªnia Ferreira E. Ferreira</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
 		<Modalidade>POAC</Modalidade>
-		<Area></Area>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -669,7 +669,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Elton Gonçalves Zenóbio</Nome>
+		<Nome>Elton GonÃ§alves ZenÃ³bio</Nome>
 		<Uni>PUC-MG</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -693,7 +693,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Erivan Clementino Gualberto Júnior</Nome>
+		<Nome>Erivan Clementino Gualberto JÃºnior</Nome>
 		<Uni>UFAM</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -704,7 +704,7 @@
 		<Nome>Estevam Augusto Bonfante</Nome>
 		<Uni>FOB-USP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>10</Area>
 </Avaliacao>
 	</Avaliador>
@@ -712,20 +712,20 @@
 		<Nome>Fabian Calixto Fraiz</Nome>
 		<Uni>UFPR</Uni>
 <Avaliacao>
-		<Modalidade>Prêmio Colgate Odontologia Preventiva</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio Colgate Odontologia Preventiva</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Fabio Daumas Nunes</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>7</Area>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Fábio Wildson Gurgel Costa</Nome>
+		<Nome>FÃ¡bio Wildson Gurgel Costa</Nome>
 		<Uni>UFC</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -744,7 +744,7 @@
 		<Nome>Fabricio Mezzomo Collares</Nome>
 		<Uni>UFRGS</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>5</Area>
 </Avaliacao>
 	</Avaliador>
@@ -760,7 +760,7 @@
 		<Nome>Fernanda Campos de Almeida Carrer</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>9</Area>
 </Avaliacao>
 	</Avaliador>
@@ -768,12 +768,12 @@
 		<Nome>Fernanda Faot</Nome>
 		<Uni>UFPEL</Uni>
 <Avaliacao>
-		<Modalidade>Fórum Cientí­fico</Modalidade>
-		<Area></Area>
+		<Modalidade>FÃ³rum CientÃ­Â­fico</Modalidade>
+		<Area/>
 </Avaliacao>
 <Avaliacao>
-		<Modalidade>Fórum Científico</Modalidade>
-		<Area></Area>
+		<Modalidade>FÃ³rum CientÃ­fico</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -793,7 +793,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Flávia Aparecida Chaves Furlaneto</Nome>
+		<Nome>FlÃ¡via Aparecida Chaves Furlaneto</Nome>
 		<Uni>FORP-USP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -805,7 +805,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Flávia Maia Silveira</Nome>
+		<Nome>FlÃ¡via Maia Silveira</Nome>
 		<Uni>UFF</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -813,7 +813,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Flávio Henrique Baggio Aguiar</Nome>
+		<Nome>FlÃ¡vio Henrique Baggio Aguiar</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -821,7 +821,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Francisco Humberto Nociti-júnior</Nome>
+		<Nome>Francisco Humberto Nociti-jÃºnior</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -829,7 +829,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Francisco Xavier Paranhos Coelho Simões</Nome>
+		<Nome>Francisco Xavier Paranhos Coelho SimÃµes</Nome>
 		<Uni>UESB</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -837,11 +837,11 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Gabriel Antônio Sánchez</Nome>
+		<Nome>Gabriel AntÃ´nio SÃ¡nchez</Nome>
 		<Uni>UBA</Uni>
 <Avaliacao>
-		<Modalidade>Prêmio LAOHA-Colgate de Valorização à Internacionalização</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio LAOHA-Colgate de ValorizaÃ§Ã£o Ã  InternacionalizaÃ§Ã£o</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -853,7 +853,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Guilherme José Pimentel Lopes de Oliveira</Nome>
+		<Nome>Guilherme JosÃ© Pimentel Lopes de Oliveira</Nome>
 		<Uni>UFU</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -873,11 +873,11 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Heitor Marques Honório</Nome>
+		<Nome>Heitor Marques HonÃ³rio</Nome>
 		<Uni>FOB-USP</Uni>
 <Avaliacao>
-		<Modalidade>Painel Revisão Sistemática</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel RevisÃ£o SistemÃ¡tica</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -892,16 +892,16 @@
 		<Nome>Isabela Almeida Pordeus</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
-		<Modalidade>Painel Pesquisa Dentro da Indústria</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Pesquisa Dentro da IndÃºstria</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Jaime Aparecido Cury</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
-		<Modalidade>Prêmio LAOHA-Colgate de Valorização à Internacionalização</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio LAOHA-Colgate de ValorizaÃ§Ã£o Ã  InternacionalizaÃ§Ã£o</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -917,7 +917,7 @@
 		<Uni>UFBA</Uni>
 <Avaliacao>
 		<Modalidade>Pesquisa em Ensino</Modalidade>
-		<Area></Area>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -929,7 +929,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>João Gabriel Silva Souza</Nome>
+		<Nome>JoÃ£o Gabriel Silva Souza</Nome>
 		<Uni>UnG</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1021,11 +1021,11 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Júnia Maria Cheib Serra-negra</Nome>
+		<Nome>JÃºnia Maria Cheib Serra-negra</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -1037,15 +1037,15 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Karina Gonzales Silvério Ruiz</Nome>
+		<Nome>Karina Gonzales SilvÃ©rio Ruiz</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Karla Zancopé</Nome>
+		<Nome>Karla ZancopÃ©</Nome>
 		<Uni>UFU</Uni>
 <Avaliacao>
 		<Modalidade>Projeto de Pesquisa</Modalidade>
@@ -1053,18 +1053,18 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Kátia Regina Hostilio Cervantes Dias</Nome>
+		<Nome>KÃ¡tia Regina Hostilio Cervantes Dias</Nome>
 		<Uni>UFRJ</Uni>
 <Avaliacao>
-		<Modalidade>Prêmio Colgate Odontologia Preventiva</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio Colgate Odontologia Preventiva</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Laura Guimarães Primo</Nome>
+		<Nome>Laura GuimarÃ£es Primo</Nome>
 		<Uni>UFRJ</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>4</Area>
 </Avaliacao>
 	</Avaliador>
@@ -1116,8 +1116,8 @@
 		<Nome>Lidiany Karla Azevedo Rodrigues</Nome>
 		<Uni>UFC</Uni>
 <Avaliacao>
-		<Modalidade>Prêmio LAOHA-Colgate de Apoio à Pesquisa Clínica</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio LAOHA-Colgate de Apoio Ã  Pesquisa ClÃ­nica</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -1129,15 +1129,15 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Lívia Azeredo Alves Antunes</Nome>
+		<Nome>LÃ­via Azeredo Alves Antunes</Nome>
 		<Uni>UFF</Uni>
 <Avaliacao>
-		<Modalidade>Painel Revisão Sistemática</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel RevisÃ£o SistemÃ¡tica</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Lourenço Correr-sobrinho</Nome>
+		<Nome>LourenÃ§o Correr-sobrinho</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -1149,11 +1149,11 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Lucas Guimarães Abreu</Nome>
+		<Nome>Lucas GuimarÃ£es Abreu</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
-		<Modalidade>Painel Revisão Sistemática</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel RevisÃ£o SistemÃ¡tica</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -1169,7 +1169,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Luciana Fávaro Francisconi-dos-rios</Nome>
+		<Nome>Luciana FÃ¡varo Francisconi-dos-rios</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1196,15 +1196,15 @@
 		<Nome>Lucianne Cople Maia</Nome>
 		<Uni>UFRJ</Uni>
 <Avaliacao>
-		<Modalidade>Painel Revisão Sistemática</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel RevisÃ£o SistemÃ¡tica</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Luciano José Pereira</Nome>
+		<Nome>Luciano JosÃ© Pereira</Nome>
 		<Uni>UFLA</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>1</Area>
 </Avaliacao>
 	</Avaliador>
@@ -1225,7 +1225,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Luís Otávio de Miranda Cota</Nome>
+		<Nome>LuÃ­s OtÃ¡vio de Miranda Cota</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1253,7 +1253,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Manoel Damião Sousa-neto</Nome>
+		<Nome>Manoel DamiÃ£o Sousa-neto</Nome>
 		<Uni>FORP-USP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1264,7 +1264,7 @@
 		<Nome>Manoela Domingues Martins</Nome>
 		<Uni>UFRGS</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>7</Area>
 </Avaliacao>
 	</Avaliador>
@@ -1272,20 +1272,20 @@
 		<Nome>Marcela Charantola Rodrigues</Nome>
 		<Uni>UNICSUL</Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Marcelle Danelon</Nome>
 		<Uni>FOA-UNESP </Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Marcelo Bönecker</Nome>
+		<Nome>Marcelo BÃ¶necker</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1305,7 +1305,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Márcia Carneiro Valera</Nome>
+		<Nome>MÃ¡rcia Carneiro Valera</Nome>
 		<Uni>ICT-UNESP/SJC</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1313,7 +1313,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Márcio Mateus Beloti</Nome>
+		<Nome>MÃ¡rcio Mateus Beloti</Nome>
 		<Uni>FORP-USP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -1345,7 +1345,7 @@
 		<Uni>UFAM</Uni>
 <Avaliacao>
 		<Modalidade>POAC</Modalidade>
-		<Area></Area>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -1361,10 +1361,10 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Maria Beatriz Duarte Gavião</Nome>
+		<Nome>Maria Beatriz Duarte GaviÃ£o</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>4</Area>
 </Avaliacao>
 	</Avaliador>
@@ -1381,7 +1381,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Maria Cynésia Medeiros de Barros</Nome>
+		<Nome>Maria CynÃ©sia Medeiros de Barros</Nome>
 		<Uni>UFRJ</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1389,7 +1389,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Maria da Graça Naclerio Homem</Nome>
+		<Nome>Maria da GraÃ§a Naclerio Homem</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1404,16 +1404,16 @@
 		<Nome>Maria Esperanza Cortes</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
-		<Modalidade>Prêmio LAOHA-Colgate de Valorização à Internacionalização</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio LAOHA-Colgate de ValorizaÃ§Ã£o Ã  InternacionalizaÃ§Ã£o</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Maria Fidela de Lima Navarro</Nome>
 		<Uni>FOB-USP</Uni>
 <Avaliacao>
-		<Modalidade>Prêmio DMG Odontologia Minimamente Invasiva</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio DMG Odontologia Minimamente Invasiva</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -1428,84 +1428,84 @@
 		<Nome>Mariana Minatel Braga</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
-		<Modalidade>Prêmio Colgate Odontologia Preventiva</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio Colgate Odontologia Preventiva</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Mariane Cardoso</Nome>
 		<Uni>UFSC</Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Marília Afonso Rabelo Buzalaf</Nome>
+		<Nome>MarÃ­lia Afonso Rabelo Buzalaf</Nome>
 		<Uni>FOB-USP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>3</Area>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Marilisa Carneiro Leão Gabardo</Nome>
+		<Nome>Marilisa Carneiro LeÃ£o Gabardo</Nome>
 		<Uni>UP</Uni>
 <Avaliacao>
-		<Modalidade>Fórum Cientí­fico</Modalidade>
-		<Area></Area>
+		<Modalidade>FÃ³rum CientÃ­Â­fico</Modalidade>
+		<Area/>
 </Avaliacao>
 <Avaliacao>
-		<Modalidade>Fórum Científico</Modalidade>
-		<Area></Area>
+		<Modalidade>FÃ³rum CientÃ­fico</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Mario Taba jr</Nome>
 		<Uni>FORP-USP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>10</Area>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Mário Tanomaru-filho</Nome>
+		<Nome>MÃ¡rio Tanomaru-filho</Nome>
 		<Uni>FOAR-UNESP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>2</Area>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Mário Uriarte Neto</Nome>
-		<Uni></Uni>
+		<Nome>MÃ¡rio Uriarte Neto</Nome>
+		<Uni/>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
 		<Area>9</Area>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Marlise Inêz Klein</Nome>
+		<Nome>Marlise InÃªz Klein</Nome>
 		<Uni>FOAR-UNESP</Uni>
 <Avaliacao>
 		<Modalidade>Hatton</Modalidade>
-		<Area></Area>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Martinho Campolina Rebello Horta</Nome>
 		<Uni>PUC-MG</Uni>
 <Avaliacao>
-		<Modalidade>Prêmio LAOHA-Colgate de Apoio à Pesquisa Clínica</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio LAOHA-Colgate de Apoio Ã  Pesquisa ClÃ­nica</Modalidade>
+		<Area/>
 </Avaliacao>
 <Avaliacao>
-		<Modalidade>Prêmio LAOHA-Colgate de Valorização à Internacionalização</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio LAOHA-Colgate de ValorizaÃ§Ã£o Ã  InternacionalizaÃ§Ã£o</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Matheus de França Perazzo</Nome>
+		<Nome>Matheus de FranÃ§a Perazzo</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1520,7 +1520,7 @@
 		<Nome>Matheus Lima de Oliveira</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>7</Area>
 </Avaliacao>
 	</Avaliador>
@@ -1528,16 +1528,16 @@
 		<Nome>Matheus Melo Pithon</Nome>
 		<Uni>UESB</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>4</Area>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Mauro Henrique Nogueira Guimarães de Abreu</Nome>
+		<Nome>Mauro Henrique Nogueira GuimarÃ£es de Abreu</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
 		<Modalidade>Hatton</Modalidade>
-		<Area></Area>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -1564,12 +1564,12 @@
 		<Nome>Michelle Franz Montan Braga Leite</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Mírian Aiko Nakane Matsumoto</Nome>
+		<Nome>MÃ­rian Aiko Nakane Matsumoto</Nome>
 		<Uni>FORP-USP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1577,7 +1577,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Mônica Cesar do Patrocinio</Nome>
+		<Nome>MÃ´nica Cesar do Patrocinio</Nome>
 		<Uni>UNITAU</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1593,15 +1593,15 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Nádia do Lago Costa</Nome>
+		<Nome>NÃ¡dia do Lago Costa</Nome>
 		<Uni>UFG</Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Natália Cristina Ruy Carneiro</Nome>
+		<Nome>NatÃ¡lia Cristina Ruy Carneiro</Nome>
 		<Uni>FAP</Uni>
 <Avaliacao>
 		<Modalidade>Projeto de Pesquisa</Modalidade>
@@ -1625,7 +1625,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Noéli Boscato</Nome>
+		<Nome>NoÃ©li Boscato</Nome>
 		<Uni>UFPEL</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1633,7 +1633,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Patrícia de Andrade Risso</Nome>
+		<Nome>PatrÃ­cia de Andrade Risso</Nome>
 		<Uni>UFRJ</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -1641,11 +1641,11 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Patrícia Meira Bento</Nome>
+		<Nome>PatrÃ­cia Meira Bento</Nome>
 		<Uni>UEPB</Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -1657,7 +1657,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Paulo Antônio Martins-júnior</Nome>
+		<Nome>Paulo AntÃ´nio Martins-jÃºnior</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
 		<Modalidade>Projeto de Pesquisa</Modalidade>
@@ -1668,7 +1668,7 @@
 		<Nome>Paulo Isaias Seraidarian</Nome>
 		<Uni>PUC-MG</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>6</Area>
 </Avaliacao>
 	</Avaliador>
@@ -1681,7 +1681,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Paulo Sérgio Cerri</Nome>
+		<Nome>Paulo SÃ©rgio Cerri</Nome>
 		<Uni>FOAR-UNESP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -1753,15 +1753,15 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Raquel Conceição Ferreira</Nome>
+		<Nome>Raquel ConceiÃ§Ã£o Ferreira</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>9</Area>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Raquel Gonçalves Vieira-andrade</Nome>
+		<Nome>Raquel GonÃ§alves Vieira-andrade</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1788,15 +1788,15 @@
 		<Nome>Regina M. Puppin-rontani</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
-		<Modalidade>Prêmio DMG Odontologia Minimamente Invasiva</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio DMG Odontologia Minimamente Invasiva</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Renata Cunha Matheus Rodrigues Garcia</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>6</Area>
 </Avaliacao>
 	</Avaliador>
@@ -1817,7 +1817,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Renato Corrêa Viana Casarin</Nome>
+		<Nome>Renato CorrÃªa Viana Casarin</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1840,15 +1840,15 @@
 		<Nome>Ricardo Scarparo Navarro</Nome>
 		<Uni>UB</Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Roberta Okamoto</Nome>
 		<Uni>FOA-UNESP </Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>1</Area>
 </Avaliacao>
 	</Avaliador>
@@ -1856,7 +1856,7 @@
 		<Nome>Roberto Ruggiero Braga</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>5</Area>
 </Avaliacao>
 	</Avaliador>
@@ -1880,7 +1880,7 @@
 		<Nome>Rodrigo Villamarim Soares</Nome>
 		<Uni>PUC-MG</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>3</Area>
 </Avaliacao>
 	</Avaliador>
@@ -1893,7 +1893,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Rogério de Castilho Jacinto</Nome>
+		<Nome>RogÃ©rio de Castilho Jacinto</Nome>
 		<Uni>FOA-UNESP </Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1905,14 +1905,14 @@
 		<Uni>UFRN</Uni>
 <Avaliacao>
 		<Modalidade>Pesquisa em Ensino</Modalidade>
-		<Area></Area>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
 		<Nome>Rosemary Adriana C. Marcantonio</Nome>
 		<Uni>FOAR-UNESP</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>8</Area>
 </Avaliacao>
 	</Avaliador>
@@ -1933,7 +1933,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Sandra Lúcia Dantas de Moraes</Nome>
+		<Nome>Sandra LÃºcia Dantas de Moraes</Nome>
 		<Uni>UPE</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1949,7 +1949,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Sérgio Eduardo de Paiva Gonçalves</Nome>
+		<Nome>SÃ©rgio Eduardo de Paiva GonÃ§alves</Nome>
 		<Uni>ICT-UNESP/SJC</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -1989,7 +1989,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Simone Rennó Junqueira</Nome>
+		<Nome>Simone RennÃ³ Junqueira</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -2000,8 +2000,8 @@
 		<Nome>Solange Ferreira Paulino</Nome>
 		<Uni>FOUSP</Uni>
 <Avaliacao>
-		<Modalidade>Teste Avaliação</Modalidade>
-		<Area></Area>
+		<Modalidade>Teste AvaliaÃ§Ã£o</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -2024,16 +2024,16 @@
 		<Nome>Suellen da Rocha Mendes</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
-		<Modalidade>Painel Relatos de Casos e Revisões</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel Relatos de Casos e RevisÃµes</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Tahyná Duda Deps</Nome>
+		<Nome>TahynÃ¡ Duda Deps</Nome>
 		<Uni>FAIPE</Uni>
 <Avaliacao>
-		<Modalidade>Painel Revisão Sistemática</Modalidade>
-		<Area></Area>
+		<Modalidade>Painel RevisÃ£o SistemÃ¡tica</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -2045,7 +2045,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Tarcília Aparecida da Silva</Nome>
+		<Nome>TarcÃ­lia Aparecida da Silva</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -2061,7 +2061,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Tatiana Nayara Libório-kimura</Nome>
+		<Nome>Tatiana Nayara LibÃ³rio-kimura</Nome>
 
 		<Uni>UFAM</Uni>
 <Avaliacao>
@@ -2070,7 +2070,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Thaís Marques Simek Vega Gonçalves</Nome>
+		<Nome>ThaÃ­s Marques Simek Vega GonÃ§alves</Nome>
 		<Uni>UFSC</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -2082,11 +2082,11 @@
 		<Uni>UFSM</Uni>
 <Avaliacao>
 		<Modalidade>POAC</Modalidade>
-		<Area></Area>
+		<Area/>
 </Avaliacao>
 <Avaliacao>
-		<Modalidade>Prêmio LAOHA-Colgate de Apoio à Pesquisa Clínica</Modalidade>
-		<Area></Area>
+		<Modalidade>PrÃªmio LAOHA-Colgate de Apoio Ã  Pesquisa ClÃ­nica</Modalidade>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -2106,7 +2106,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Valentim Adelino Ricardo Barão</Nome>
+		<Nome>Valentim Adelino Ricardo BarÃ£o</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -2130,7 +2130,7 @@
 		<Uni>UFRGS</Uni>
 <Avaliacao>
 		<Modalidade>Pesquisa em Ensino</Modalidade>
-		<Area></Area>
+		<Area/>
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
@@ -2142,7 +2142,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Viviane Elisângela Gomes</Nome>
+		<Nome>Viviane ElisÃ¢ngela Gomes</Nome>
 		<Uni>UFMG</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
@@ -2150,7 +2150,7 @@
 </Avaliacao>
 	</Avaliador>
 	<Avaliador>
-		<Nome>Wander José da Silva</Nome>
+		<Nome>Wander JosÃ© da Silva</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 <Avaliacao>
 		<Modalidade>Painel Aspirante e Efetivo</Modalidade>
@@ -2159,7 +2159,7 @@
 	</Avaliador>
 	<Avaliador>
 		<Nome>Yara Teresinha Correa Silva-sousa</Nome>
-		<Uni>UNAERP - RIBEIRÃO PR</Uni>
+		<Uni>UNAERP - RIBEIRÃƒO PR</Uni>
 <Avaliacao>
 		<Modalidade>Painel Iniciante</Modalidade>
 		<Area>2</Area>
@@ -2169,7 +2169,7 @@
 		<Nome>Yuri Wanderley Cavalcanti</Nome>
 		<Uni>UFPB</Uni>
 <Avaliacao>
-		<Modalidade>Apresentação Oral</Modalidade>
+		<Modalidade>ApresentaÃ§Ã£o Oral</Modalidade>
 		<Area>9</Area>
 </Avaliacao>
 	</Avaliador>

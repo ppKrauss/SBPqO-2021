@@ -1,57 +1,57 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <IndiceAutores xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">	
 	<Autor>
 		<CodAutor>35813</CodAutor>
-		<Homonimos></Homonimos>
+		<Homonimos/>
 		<Formato>Arantes BF</Formato>
 		<Nome>Brenda Ferreira Arantes</Nome>
 		<Trabalhos>PN0468</Trabalhos>
 	</Autor>
 	<Autor>
 		<CodAutor>46803</CodAutor>
-		<Homonimos></Homonimos>
+		<Homonimos/>
 		<Formato>Carvalho CS</Formato>
 		<Nome>Carla Silva Carvalho</Nome>
 		<Trabalhos>PN0468</Trabalhos>
 	</Autor>
 	<Autor>
 		<CodAutor>14511</CodAutor>
-		<Homonimos></Homonimos>
+		<Homonimos/>
 		<Formato>Castro DT</Formato>
 		<Nome>Denise Tornavoi de Castro</Nome>
 		<Trabalhos>PN0468, PN0506, PN1402</Trabalhos>
 	</Autor>
 	<Autor>
 		<CodAutor>4964</CodAutor>
-		<Homonimos></Homonimos>
+		<Homonimos/>
 		<Formato>Faraoni JJ</Formato>
 		<Nome>Juliana Jendiroba Faraoni</Nome>
 		<Trabalhos>PN0468, PN0506, PN0543, PN1335, PN1416, DMG005, DMG007</Trabalhos>
 	</Autor>
 	<Autor>
 		<CodAutor>781</CodAutor>
-		<Homonimos></Homonimos>
+		<Homonimos/>
 		<Formato>Geraldo-Martins VR</Formato>
 		<Nome>Vinicius Rangel Geraldo-martins</Nome>
 		<Trabalhos>PN0468, PN0506, PN0561, PN1386</Trabalhos>
 	</Autor>
 	<Autor>
 		<CodAutor>1728</CodAutor>
-		<Homonimos></Homonimos>
+		<Homonimos/>
 		<Formato>Lepri CP</Formato>
 		<Nome>Cesar Penazzo Lepri</Nome>
 		<Trabalhos>PN0468, PN0506, PN1402</Trabalhos>
 	</Autor>
 	<Autor>
 		<CodAutor>39493</CodAutor>
-		<Homonimos></Homonimos>
-		<Formato>Mendonça LO</Formato>
-		<Nome>Laura Oliveira de Mendonça</Nome>
+		<Homonimos/>
+		<Formato>MendonÃ§a LO</Formato>
+		<Nome>Laura Oliveira de MendonÃ§a</Nome>
 		<Trabalhos>PN0468</Trabalhos>
 	</Autor>
 	<Autor>
 		<CodAutor>3390</CodAutor>
-		<Homonimos></Homonimos>
+		<Homonimos/>
 		<Formato>Palma-Dibb RG</Formato>
 		<Nome>Regina Guenka Palma-dibb</Nome>
 		<Trabalhos>PN0319, PN0468, PN0506, PN0543, PN1335, PN1416, DMG005, DMG007</Trabalhos>
