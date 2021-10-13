@@ -143,9 +143,9 @@ $ctrl_idnames     = array(); // cria e controla IDs
 //////////////
 
 
-
-
-
+function trimTags($xml,$tags='h1|h2') {
+	return preg_replace("@^<($tags)>(.*?)</\\1>$@si", '$2', trim($xml));
+}
 
 /**
  * CARGA DE OPTIONS:

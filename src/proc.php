@@ -73,9 +73,9 @@ switch ($cmd) {
 			    RecursiveIteratorIterator::SELF_FIRST);
 		foreach($dit as $node) {
 		    if($node->nodeType === XML_ELEMENT_NODE) {
-			$x = preg_replace('/\[\d+\]/su','[]', $node->getNodePath() );
-			if (isset($allNodes[$x]))  $allNodes[$x]++; else $allNodes[$x]=1;
-			$nodeNames[$node->nodeName]=1;
+					$x = preg_replace('/\[\d+\]/su','[]', $node->getNodePath() );
+					if (isset($allNodes[$x]))  $allNodes[$x]++; else $allNodes[$x]=1;
+					$nodeNames[$node->nodeName]=1;
 		    }
 		}
 	} // all files
@@ -240,7 +240,7 @@ switch ($cmd) {
 	$IDs=[];
 	$n=0;
 	$ff2_path = "$dir_entrega/etapa02";
-	mkdir($ff2_path);
+	if ( !file_exists($ff2_path) ) mkdir($ff2_path);
 	$ff2 = "$ff2_path/fronts.csv";
 	$fp2 = fopen($ff2, 'w'); //  a+
 	fputcsv($fp2, ['ID', 'Email', 'Titulo', 'Universidade', 'Autores', 'Apoio', 'Conflito']);
@@ -253,15 +253,16 @@ switch ($cmd) {
 		foreach($sxml_resumos->Resumo as $r) {
 			$n++;
 			$id = strtoupper( trim($r->Sigla) );
+			// BUG pois não publica os EMs. 1 XML 2 XHTML.
 			$XML_body .= "\n\n<article><h1>$id</h1>"
-					."\n<section class='main'>\n". trim($r->Resumo) ."\n</section>"
-					."\n<section class='conclusao'>\n". trim($r->Conclusao) ."\n</section>"
+					."\n<section class='main'>\n". trimTags($r->Resumo->asXML(),'Resumo') ."\n</section>"
+					."\n<section class='conclusao'>\n". trimTags($r->Conclusao->asXML(),'Conclusao') ."\n</section>"
 					//."\n<section class='conflito'>\n". trim($r->Conflito) ."\n</section>"
 					."\n</article>\n";
 			$CSV_front = [
 				'ID'=> $id,
 				'Email'=> $r->Email,
-				'Titulo'=> $r->Titulo,
+				'Titulo'=> trimTags($r->Titulo->asXML(),'Titulo'),
 				'Universidade'=> $r->Universidade,
 				'Autores'=> $r->Autores,
 				'Apoio'=> (trim($r->Apoio))? $r->Apoio: $r->Apoio->em,
